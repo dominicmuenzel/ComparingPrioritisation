@@ -1,4 +1,4 @@
-# ComparingPrioritisation
+# ComparingPrioritisationMethods
 
 This is the underlying code for the research manuscript found at ____. 
 
