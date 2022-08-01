@@ -1,2 +1,14 @@
 # ComparingPrioritisation
-This is the underlying code for the research paper found at ____. Section 3 is for generating simulated seascapes and running Marxan spatial prioritisation on these. Prioritisation is run without using connectivity (baseline), using connectivity-based features methods (where metrics of connectivity are calculated for each planning unit and targets are set for these), or using spatial dependency methods (described in Beger et al. 2010 in Conservation Letters). Section 4 is for running Marxan spatial prioritisation on case studies of four species from two regions, where matrices describe probability of larval dispersal  for rabbitfish and mudcrab in Southeast Sulawesi, Indonesia, and coral trout and sea cucumber in the Coral Triangle.
+
+This is the underlying code for the research manuscript found at ____. 
+
+The main file for running code is "Comparing spatial conservation prioritisation - run.R".
+
+There is a secondary file containing functions which does not need to be opened manually as it is called in by the main file ("Comparing spatial conservation prioritisation - functions.R").
+
+The x y coordinates of the reefs in the case studies are found in "imported habitat matrix.csv".
+
+The dispersal probability matrices of the species in the case study are found in "imported probability matrix.csv".
+
+
+
