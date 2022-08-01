@@ -1,6 +1,6 @@
 #Comparing spatial conservation prioritisation methods using site- versus linkage-based connectivity
-#This is the underlying code for the paper found at ____. Section 3 is for generating simulated seascapes and running Marxan spatial prioritisation on these. Prioritisation is run without using connectivity (baseline), using connectivity-based features methods (where metrics of connectivity are calculated for each planning unit and targets are set for these), or using linkage-based methods (the spatial dependency method described in Beger et al. 2010 in Conservation Letters). Section 4 is for running Marxan spatial prioritisation on case studies of four species from two regions, where matrices describe probability of larval dispersal  for rabbitfish and mudcrab in Southeast Sulawesi, Indonesia, and coral trout and sea cucumber in the Coral Triangle
-#Dominic Muenzel bsdkm@leeds.ac.uk last updated 2022-04
+#This is the underlying code for the research paper found at ____. Section 3 is for generating simulated seascapes and running Marxan spatial prioritisation on these. Prioritisation is run without using connectivity (baseline), using connectivity-based features methods (where metrics of connectivity are calculated for each planning unit and targets are set for these), or using spatial dependency methods (described in Beger et al. 2010 in Conservation Letters). Section 4 is for running Marxan spatial prioritisation on case studies of four species from two regions, where matrices describe probability of larval dispersal  for rabbitfish and mudcrab in Southeast Sulawesi, Indonesia, and coral trout and sea cucumber in the Coral Triangle
+#Dominic Muenzel bsdkm@leeds.ac.uk last updated 2022-08
 
 
 #=#=#=#=#=#=#=#=#=#= 1. LIBRARIES #=#=#=#=#=#=#=#=#=#=
