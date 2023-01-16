@@ -1,6 +1,6 @@
 # ComparingPrioritisationMethods
 
-This is the underlying code for the research manuscript found at ____. 
+This is the underlying code for the research article found at https://doi.org/10.1111/cobi.14008. 
 
 The main file for running code is "Comparing spatial conservation prioritisation - run.R".
 
